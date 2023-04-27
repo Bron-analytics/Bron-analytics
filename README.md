@@ -8,6 +8,7 @@ conferences.
 
 
   - 🌱I'm currently learning Data Engineering and MLOps on PluralSight
+  - 😆Got in for Data Science program at alx Africa fully funded by Mastercard Foundation ~($28,000)~
   - 👯‍♂️I'm looking to collaborate on Releasing Analytics Products and Industrializing Machine Learning Pipeline
   - 🤔I'm looking for help with building machine learning workflow
   - 📝To give back to the community I publish technical MLOps and AI-focused content on Medium
