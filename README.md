@@ -23,9 +23,4 @@ conferences.
 Cheers🥂
 
 
-### What I am listening to on Spotify now🎧
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=317mwo4xymupc44vjycih7uy5x4m&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=317mwo4xymupc44vjycih7uy5x4m&redirect=true)
-
-
-- If you like my playlist, feel free to connect!🚀
